@@ -9,6 +9,8 @@ class Product extends StatefulWidget {
 class _ProductState extends State<Product> {
   var productList = [
     {"name": "Blazer", "picture": "images/carousel1.png", "price": 100},
+    {"name": "Dress", "picture": "images/carousel2.png", "price": 120},
+    {"name": "Blazer", "picture": "images/carousel1.png", "price": 100},
     {"name": "Dress", "picture": "images/carousel2.png", "price": 120}
   ];
   @override
